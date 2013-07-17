@@ -1,0 +1,9 @@
+{
+  "name": "presentation-ceci-nest-pas-une-architecture",
+  "version": "0.0.0",
+  "dependencies": {
+    "deck.js": "latest",
+    "toc": "latest",
+    "jasmine": "latest"
+  }
+}
