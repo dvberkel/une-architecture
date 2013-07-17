@@ -1,0 +1,15 @@
+blockquote > * {
+    display: block;
+}
+
+blockquote p {
+    font-size: larger;
+}
+
+blockquote dt:after {
+    content: ":";
+}
+
+blockquote dd {
+    color: #666666;
+}
