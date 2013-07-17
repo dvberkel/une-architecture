@@ -4,6 +4,7 @@
   "dependencies": {
     "deck.js": "latest",
     "toc": "latest",
-    "jasmine": "latest"
+    "jasmine": "latest",
+    "decktoc": "~0.0.0"
   }
 }
