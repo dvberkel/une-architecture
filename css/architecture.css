@@ -13,3 +13,7 @@ blockquote dt:after {
 blockquote dd {
     color: #666666;
 }
+
+h5 > strong.problem {
+    color: #e01b8d;
+}
